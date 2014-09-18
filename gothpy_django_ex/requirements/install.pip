@@ -1,0 +1,9 @@
+django-secure
+raven
+django-uuidfield
+bpython
+django-model-utils
+south
+django_extensions
+Sphinx
+pathlib
